@@ -1,9 +1,0 @@
-public class Tarefa {
-
-    public id int {get; set;}
-    public nome string {get; set;}
-    public descricao string {get; set;}
-    public dataCriacao DataTime {get; set;}
-    public status int {get; set;}
-    public dataExecucao Datetime {get; set;}
-}
